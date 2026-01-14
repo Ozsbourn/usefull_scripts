@@ -5,7 +5,7 @@ param(
     
     [string]$OutputDir = "transactions",
     
-    [int]$MaxParametersPerTransaction = 64500  # Оставляем запас до лимита
+    [int]$MaxParametersPerTransaction = 64500  # Keep the stock up to the limit
 )
 
 function Show-Help {
