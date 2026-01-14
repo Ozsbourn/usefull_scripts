@@ -1,10 +1,3 @@
----
-tags: [Import-1de8]
-title: For whatʔ
-created: '2026-01-14T12:40:02.493Z'
-modified: '2026-01-14T14:50:53.276Z'
----
-
 ## For what?
 
 This script allow you migrate data from dump (```*.sql```, ```*.gz```, ```*.xz``` [check that that you already have installed one **'xz'** package on your Linux or **'xz-utils'** on Windows])
